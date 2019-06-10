@@ -7,7 +7,7 @@ def create_an_array = ['a', 'b', 'c', 'd']
 
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array = ['a', 'b', 'c', 'd']
   add_element_to_end_of_array.push['e']
   puts add_element_to_end_of_array
   
